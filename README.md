@@ -21,6 +21,11 @@
 * [Spotipy](https://spotipy.readthedocs.io/)
   * a lightweight Python library for the Spotify Web API. With Spotipy you get full access to all of the music data provided by the Spotify platform.
 
+## System
+
+* Virtualenv
+  * [Virtualenv - A Deep Dive](https://www.youtube.com/watch?v=O9_MJHDkej8) (video)
+
 ## Teaching
 
 * Jupyter notebooks
