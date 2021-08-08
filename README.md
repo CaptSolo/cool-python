@@ -1,5 +1,11 @@
 # Cool Python projects and libraries
 
+### Lists of cool Python projects
+
+* [Awesome Python applications](https://github.com/mahmoud/awesome-python-applications)
+
+---
+
 ## GUI
 
 * [Gooey](https://github.com/chriskiehl/Gooey)
