@@ -21,6 +21,12 @@
 * [Spotipy](https://spotipy.readthedocs.io/)
   * a lightweight Python library for the Spotify Web API. With Spotipy you get full access to all of the music data provided by the Spotify platform.
 
+## Web Applications
+
+* [FastAPI](https://fastapi.tiangolo.com/) - a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+  * [Using FastAPI to Build Python Web APIs](https://realpython.com/fastapi-python-web-apis/)
+* [Flask](https://flask.palletsprojects.com/) - 
+
 ## Web Crawling / Scraping
 
 * Selenium
