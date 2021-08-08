@@ -3,6 +3,7 @@
 ### Lists of cool Python projects
 
 * [Awesome Python applications](https://github.com/mahmoud/awesome-python-applications)
+* [Useful Python modules, libraries and applications](https://wiki.python.org/moin/UsefulModules) (Python.org)
 
 ---
 
