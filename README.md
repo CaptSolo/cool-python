@@ -4,6 +4,7 @@
 
 * [Awesome Python applications](https://github.com/mahmoud/awesome-python-applications)
 * [Useful Python modules, libraries and applications](https://wiki.python.org/moin/UsefulModules) (Python.org)
+* [Video tutorials for modern ideas and open source tools](https://calmcode.io/) (calmcode.io)
 
 ---
 
